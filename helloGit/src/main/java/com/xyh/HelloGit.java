@@ -6,5 +6,6 @@ public class HelloGit {
         String s = "4324234";
         System.out.println("hot fix 1");
         System.out.println("fdasf");
+        System.out.println("erwerwer");
     }
 }
